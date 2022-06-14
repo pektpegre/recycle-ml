@@ -25,6 +25,35 @@
 Συνολικό Κόστος : 140 ευρώ
 
 
+<table>
+<tbody>
+<tr>
+<td>Όνομα Ομάδας :</td>
+<td>Recycling Engineers</td>
+</tr>
+<tr>
+<td>Εκπαιδευτικοί :</td>
+<td>Λιάμπα Θεοδούλα
+
+Μωϋσιάδης Βασίλειος</td>
+</tr>
+<tr>
+<td>Μαθητές Γυμνασίου :</td>
+<td>Τζιόλλας Μάριος
+
+Χρήστος</td>
+</tr>
+<tr>
+<td>Εκπαιδευτική Δομή :</td>
+<td>Πόλος Εκπαιδευτικής Καινοτομίας Γρεβενών</td>
+</tr>
+<tr>
+<td>Github :</td>
+<td>https://github.com/pektpegre/recycle-ml</td>
+</tr>
+</tbody>
+</table>
+
 
 Όνομα Ομάδας :	Recycling Engineers
 Εκπαιδευτικοί :	Λιάμπα Θεοδούλα
