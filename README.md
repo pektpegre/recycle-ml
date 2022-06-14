@@ -47,20 +47,5 @@
 <td>Εκπαιδευτική Δομή :</td>
 <td>Πόλος Εκπαιδευτικής Καινοτομίας Γρεβενών</td>
 </tr>
-<tr>
-<td>Github :</td>
-<td>https://github.com/pektpegre/recycle-ml</td>
-</tr>
 </tbody>
 </table>
-
-
-Όνομα Ομάδας :	Recycling Engineers
-Εκπαιδευτικοί :	Λιάμπα Θεοδούλα
-                Μωϋσιάδης Βασίλειος
-
-Μαθητές Γυμνασίου :	Τζιόλλας Μάριος
-                    Χρήστος
-
-Εκπαιδευτική Δομή :	Πόλος Εκπαιδευτικής Καινοτομίας Γρεβενών
-Github :	https://github.com/pektpegre/recycle-ml
